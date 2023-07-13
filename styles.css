@@ -31,9 +31,22 @@ li {
     padding-left: 0px;
 }
 
+ul.recipe-list a {
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-style: none;
+    font-size: 20px;
+}
+
 .home-button {
     background-color: lightblue;
     color: black;
     padding: 10px 25px 10px;
     font-size: 20px;
+}
+
+#home-page-body {
+    background-color: lightblue
+    ;
 }
