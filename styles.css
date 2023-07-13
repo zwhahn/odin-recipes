@@ -3,10 +3,17 @@
 }
 
 body {
-    padding: 5% 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 h1 {
+    text-align: center;
+}
+
+div.cover-image {
     text-align: center;
 }
 
@@ -29,5 +36,4 @@ ul.ingredients {
     color: black;
     padding: 10px 25px 10px;
     font-size: 20px;
-    border-color: ;
 }
