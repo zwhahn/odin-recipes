@@ -5,6 +5,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    background-color: #e9d8a6;
 }
 
 .header{
@@ -50,8 +51,4 @@ ul.recipe-list a {
     color: black;
     padding: 10px 25px 10px;
     font-size: 20px;
-}
-
-#home-page-body {
-    background-color: #e9d8a6;
 }
