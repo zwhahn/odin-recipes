@@ -8,9 +8,20 @@ html, body {
     background-color: #e9d8a6;
 }
 
-.header{
+.banner {
+    width: 100%;
     background-color: #0a9396;
-    margin: 0px;
+}
+
+.banner-wrapper {
+    margin: auto;
+    padding: 0 3em 0 3m;
+    margin: 0 auto;
+    display: block;
+}
+
+.banner-content{
+    text-align: left;
     padding: 30px;
 }
 
