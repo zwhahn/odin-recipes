@@ -73,8 +73,11 @@ ul.recipe-list a {
 }
 
 .home-button {
+    display: inline-block;
     background-color: lightblue;
     color: black;
     padding: 10px 25px 10px;
     font-size: 20px;
+    margin: 15px 0px 0px 0px;
+    border: 3px solid black;
 }
