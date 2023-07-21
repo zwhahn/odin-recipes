@@ -24,6 +24,10 @@ html, body {
     border: solid red;
 }
 
+.page.recipe{
+    width: 650px
+}
+
 
 #banner-content{
     margin: 0px;
