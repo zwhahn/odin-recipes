@@ -16,20 +16,22 @@ html, body {
 }
 
 #banner-wrapper,
-.page {
+.page,
+.recipe-title {
     width: 600px;
     margin: 0px auto;
     padding: 0px;
     border: solid red;
 }
 
-.page {
-
-}
 
 #banner-content{
     margin: 0px;
     font-size: 25px;
+}
+
+.recipe-title {
+    padding: 20px
 }
 
 h1 {
